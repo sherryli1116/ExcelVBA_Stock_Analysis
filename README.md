@@ -14,7 +14,7 @@ The run times for the original code took around .4 seconds, while the run times 
 ## Summary
 ### Detail Analysis of Our Result
 #### Refactoring Code Advantages and Disadvantages
-Advantages: We can generate the data we need in a short amount of time using the code we refactored. The stock data were being marked in red and green in a shorter amount of time.
+Advantages: We can generate the data we need in a short amount of time using the code we refactored. The stock data were being marked in red and green in a shorter amount of time.\
 Disadvantages: When refactoring the codes, the logistic structure is easily affected by a small typo or indent mistake, we need to double check to make sure there is no small mistakes affecting the code we produced. It is also a bit time consuming to generate these codes, we might need to reconsider this method if we are in a tight project time frame.
 #### Original and Refactored VBA Script Advantages and Disadvantages:
 Advantages: When creating the nested conditional and for loops in VBA, logic errors are easily to detect. The debugging function highlighted the exactly place we need to modify. Refactored VBA script led to better quality of codes which can create a shortcut for us to generate outputs. It also shows clearly the explanations on each step to run the code.
